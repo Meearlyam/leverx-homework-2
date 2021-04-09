@@ -1,4 +1,4 @@
-##Tic Tac Toe console game
+## Tic Tac Toe console game
 
 This app represents a console variant of Tic Tac Toe game.
 After launching you can choose one of 2 available modes:
